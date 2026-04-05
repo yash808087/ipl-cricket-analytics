@@ -1,0 +1,855 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2008,Bangalore,2008-03-20,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,50,0,UT Yadav,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+2,2008,Jaipur,2008-03-21,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,AT Rayudu,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+3,2008,Ahmedabad,2008-03-22,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Punjab Kings,0,2,SP Narine,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+4,2008,Ahmedabad,2008-03-23,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,67,0,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+5,2008,Mohali,2008-03-24,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,3,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+6,2008,Bangalore,2008-03-25,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Mumbai Indians,0,2,AT Rayudu,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+7,2008,Mumbai,2008-03-26,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,KA Pollard,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+8,2008,Kolkata,2008-03-27,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Punjab Kings,0,3,T Natarajan,"Eden Gardens, Kolkata",Umpire A,Umpire B
+9,2008,Delhi,2008-03-28,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,27,0,Mohammed Shami,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+10,2008,Jaipur,2008-03-29,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,10,0,Z Khan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+11,2008,Delhi,2008-03-30,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,48,0,MM Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+12,2008,Mohali,2008-03-31,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Punjab Kings,84,0,AM Rahane,"PCA Stadium, Mohali",Umpire A,Umpire B
+13,2008,Chennai,2008-04-01,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,57,0,MS Dhoni,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+14,2008,Jaipur,2008-04-02,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Punjab Kings,0,9,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+15,2008,Hyderabad,2008-04-03,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,87,0,T Natarajan,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+16,2008,Jaipur,2008-04-04,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,no result,0,,0,0,,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+17,2008,Hyderabad,2008-04-05,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,4,Harbhajan Singh,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+18,2008,Ahmedabad,2008-04-06,Rajasthan Royals,Punjab Kings,Punjab Kings,field,normal,0,Rajasthan Royals,87,0,S Dhawan,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+19,2008,Ahmedabad,2008-04-07,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,5,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+20,2008,Hyderabad,2008-04-08,Mumbai Indians,Punjab Kings,Punjab Kings,field,normal,0,Mumbai Indians,72,0,JC Archer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+21,2008,Kolkata,2008-04-09,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,43,0,CH Gayle,"Eden Gardens, Kolkata",Umpire A,Umpire B
+22,2008,Hyderabad,2008-04-10,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,60,0,K Rabada,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+23,2008,Kolkata,2008-04-11,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,SS Iyer,"Eden Gardens, Kolkata",Umpire A,Umpire B
+24,2008,Mumbai,2008-04-12,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,9,DJ Bravo,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+25,2008,Mumbai,2008-04-13,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,7,0,DJ Bravo,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+26,2008,Delhi,2008-04-14,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,25,0,SR Watson,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+27,2008,Chennai,2008-04-15,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Punjab Kings,0,3,B Kumar,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+28,2008,Bangalore,2008-04-16,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,66,0,PP Chawla,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+29,2008,Jaipur,2008-04-17,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Punjab Kings,0,6,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+30,2008,Ahmedabad,2008-04-18,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,1,AM Rahane,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+31,2008,Lucknow,2008-04-19,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Rajasthan Royals,0,2,S Dhawan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+32,2008,Delhi,2008-04-20,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,21,0,CH Gayle,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+33,2008,Mumbai,2008-04-21,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,78,0,SL Malinga,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+34,2008,Hyderabad,2008-04-22,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,0,9,AT Rayudu,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+35,2008,Chennai,2008-04-23,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,normal,0,Mumbai Indians,53,0,SK Raina,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+36,2008,Lucknow,2008-04-24,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,CH Gayle,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+37,2008,Delhi,2008-04-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,83,0,DA Warner,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+38,2008,Mohali,2008-04-26,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,0,2,JJ Bumrah,"PCA Stadium, Mohali",Umpire A,Umpire B
+39,2008,Chennai,2008-04-27,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,3,CH Gayle,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+40,2008,Ahmedabad,2008-04-28,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,0,9,MM Sharma,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+41,2008,Ahmedabad,2008-04-29,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Punjab Kings,0,4,KA Pollard,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+42,2008,Mumbai,2008-04-30,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,41,0,HH Pandya,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+43,2008,Mumbai,2008-05-01,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,HH Pandya,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+44,2008,Hyderabad,2008-05-02,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,normal,0,Rajasthan Royals,8,0,RG Sharma,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+45,2008,Jaipur,2008-05-03,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Chennai Super Kings,0,7,SS Iyer,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+46,2008,Lucknow,2008-05-04,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,10,0,V Kohli,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+47,2008,Mohali,2008-05-05,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,49,0,Mohammed Shami,"PCA Stadium, Mohali",Umpire A,Umpire B
+48,2008,Mumbai,2008-05-06,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Sunrisers Hyderabad,42,0,HV Patel,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+49,2008,Mohali,2008-05-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,5,AB de Villiers,"PCA Stadium, Mohali",Umpire A,Umpire B
+50,2008,Mohali,2008-05-08,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,42,0,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+51,2008,Lucknow,2008-05-09,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,8,A Nehra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+52,2008,Kolkata,2008-05-10,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,4,YS Chahal,"Eden Gardens, Kolkata",Umpire A,Umpire B
+53,2008,Bangalore,2008-05-11,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,56,0,F du Plessis,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+54,2008,Delhi,2008-05-12,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Delhi Capitals,24,0,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+55,2008,Kolkata,2008-05-13,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Rajasthan Royals,0,2,DA Warner,"Eden Gardens, Kolkata",Umpire A,Umpire B
+56,2008,Chennai,2008-05-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,9,Q de Kock,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+57,2009,Jaipur,2009-03-20,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,9,AM Rahane,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+58,2009,Mumbai,2009-03-21,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Rajasthan Royals,52,0,JC Archer,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+59,2009,Chennai,2009-03-22,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,0,2,SS Iyer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+60,2009,Ahmedabad,2009-03-23,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+61,2009,Ahmedabad,2009-03-24,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,84,0,KA Pollard,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+62,2009,Ahmedabad,2009-03-25,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,0,4,JP Duminy,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+63,2009,Ahmedabad,2009-03-26,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,9,Q de Kock,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+64,2009,Jaipur,2009-03-27,Mumbai Indians,Punjab Kings,Punjab Kings,field,normal,0,Mumbai Indians,0,9,F du Plessis,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+65,2009,Ahmedabad,2009-03-28,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,86,0,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+66,2009,Delhi,2009-03-29,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Chennai Super Kings,0,9,PP Chawla,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+67,2009,Jaipur,2009-03-30,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,34,0,KL Rahul,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+68,2009,Hyderabad,2009-03-31,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,0,5,Harbhajan Singh,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+69,2009,Mumbai,2009-04-01,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,9,KA Pollard,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+70,2009,Delhi,2009-04-02,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,45,0,RG Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+71,2009,Ahmedabad,2009-04-03,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,3,RA Jadeja,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+72,2009,Ahmedabad,2009-04-04,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,0,2,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+73,2009,Mohali,2009-04-05,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,0,1,JP Duminy,"PCA Stadium, Mohali",Umpire A,Umpire B
+74,2009,Kolkata,2009-04-06,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,0,9,RA Jadeja,"Eden Gardens, Kolkata",Umpire A,Umpire B
+75,2009,Mumbai,2009-04-07,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,4,K Rabada,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+76,2009,Lucknow,2009-04-08,Delhi Capitals,Punjab Kings,Punjab Kings,bat,normal,0,Delhi Capitals,20,0,DA Warner,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+77,2009,Hyderabad,2009-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Rajasthan Royals,33,0,SP Narine,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+78,2009,Mohali,2009-04-10,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,23,0,RG Sharma,"PCA Stadium, Mohali",Umpire A,Umpire B
+79,2009,Mumbai,2009-04-11,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,29,0,Q de Kock,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+80,2009,Kolkata,2009-04-12,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,71,0,RA Jadeja,"Eden Gardens, Kolkata",Umpire A,Umpire B
+81,2009,Lucknow,2009-04-13,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,79,0,SK Raina,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+82,2009,Delhi,2009-04-14,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,0,7,MM Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+83,2009,Chennai,2009-04-15,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,7,S Dhawan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+84,2009,Mumbai,2009-04-16,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,0,2,SP Narine,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+85,2009,Ahmedabad,2009-04-17,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,T Natarajan,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+86,2009,Mohali,2009-04-18,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Delhi Capitals,0,3,SP Narine,"PCA Stadium, Mohali",Umpire A,Umpire B
+87,2009,Hyderabad,2009-04-19,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Royal Challengers Bangalore,0,8,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+88,2009,Delhi,2009-04-20,Punjab Kings,Mumbai Indians,Mumbai Indians,field,no result,0,,0,0,,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+89,2009,Ahmedabad,2009-04-21,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,70,0,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+90,2009,Mumbai,2009-04-22,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,8,0,DA Warner,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+91,2009,Ahmedabad,2009-04-23,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,0,3,RA Jadeja,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+92,2009,Chennai,2009-04-24,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Sunrisers Hyderabad,83,0,A Mishra,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+93,2009,Delhi,2009-04-25,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Punjab Kings,0,5,JJ Bumrah,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+94,2009,Mohali,2009-04-26,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,4,0,KA Pollard,"PCA Stadium, Mohali",Umpire A,Umpire B
+95,2009,Jaipur,2009-04-27,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,1,RR Pant,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+96,2009,Hyderabad,2009-04-28,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,78,0,AM Rahane,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+97,2009,Chennai,2009-04-29,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,50,0,SL Malinga,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+98,2009,Ahmedabad,2009-04-30,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,84,0,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+99,2009,Kolkata,2009-05-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,0,1,SK Raina,"Eden Gardens, Kolkata",Umpire A,Umpire B
+100,2009,Hyderabad,2009-05-02,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,0,5,SS Iyer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+101,2009,Lucknow,2009-05-03,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,72,0,RR Pant,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+102,2009,Lucknow,2009-05-04,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,JP Duminy,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+103,2009,Mohali,2009-05-05,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,5,UT Yadav,"PCA Stadium, Mohali",Umpire A,Umpire B
+104,2009,Chennai,2009-05-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,5,0,RR Pant,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+105,2009,Kolkata,2009-05-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,12,0,SR Watson,"Eden Gardens, Kolkata",Umpire A,Umpire B
+106,2009,Jaipur,2009-05-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,0,3,A Mishra,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+107,2009,Jaipur,2009-05-09,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,RR Pant,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+108,2009,Mumbai,2009-05-10,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,SS Iyer,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+109,2009,Mumbai,2009-05-11,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,16,0,RR Pant,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+110,2009,Hyderabad,2009-05-12,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,31,0,JP Duminy,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+111,2009,Lucknow,2009-05-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,9,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+112,2009,Chennai,2009-05-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,2,CH Gayle,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+113,2010,Kolkata,2010-03-20,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,F du Plessis,"Eden Gardens, Kolkata",Umpire A,Umpire B
+114,2010,Mumbai,2010-03-21,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,26,0,Z Khan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+115,2010,Lucknow,2010-03-22,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,3,DJ Bravo,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+116,2010,Ahmedabad,2010-03-23,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,K Rabada,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+117,2010,Kolkata,2010-03-24,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,80,0,Q de Kock,"Eden Gardens, Kolkata",Umpire A,Umpire B
+118,2010,Delhi,2010-03-25,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,,0,0,,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+119,2010,Lucknow,2010-03-26,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,0,9,JJ Bumrah,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+120,2010,Delhi,2010-03-27,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,65,0,R Ashwin,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+121,2010,Chennai,2010-03-28,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Mumbai Indians,14,0,RG Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+122,2010,Chennai,2010-03-29,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,8,DA Warner,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+123,2010,Mumbai,2010-03-30,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,76,0,MS Dhoni,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+124,2010,Lucknow,2010-03-31,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,39,0,KL Rahul,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+125,2010,Bangalore,2010-04-01,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Chennai Super Kings,32,0,Z Khan,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+126,2010,Delhi,2010-04-02,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,6,S Dhawan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+127,2010,Jaipur,2010-04-03,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Chennai Super Kings,0,6,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+128,2010,Delhi,2010-04-04,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,MS Dhoni,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+129,2010,Ahmedabad,2010-04-05,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,0,3,CH Gayle,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+130,2010,Bangalore,2010-04-06,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,8,DA Warner,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+131,2010,Jaipur,2010-04-07,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,0,4,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+132,2010,Delhi,2010-04-08,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,normal,0,Mumbai Indians,0,3,RG Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+133,2010,Hyderabad,2010-04-09,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Delhi Capitals,6,0,SP Narine,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+134,2010,Hyderabad,2010-04-10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,0,7,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+135,2010,Mohali,2010-04-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,61,0,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+136,2010,Chennai,2010-04-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Chennai Super Kings,18,0,AT Rayudu,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+137,2010,Lucknow,2010-04-13,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,KL Rahul,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+138,2010,Jaipur,2010-04-14,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Punjab Kings,89,0,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+139,2010,Delhi,2010-04-15,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,AM Rahane,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+140,2010,Mumbai,2010-04-16,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,DA Warner,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+141,2010,Mumbai,2010-04-17,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Rajasthan Royals,69,0,MS Dhoni,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+142,2010,Chennai,2010-04-18,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Delhi Capitals,18,0,JJ Bumrah,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+143,2010,Lucknow,2010-04-19,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,0,3,B Kumar,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+144,2010,Lucknow,2010-04-20,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,no result,0,,0,0,,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+145,2010,Lucknow,2010-04-21,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+146,2010,Bangalore,2010-04-22,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,76,0,SK Raina,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+147,2010,Kolkata,2010-04-23,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Rajasthan Royals,0,2,SL Malinga,"Eden Gardens, Kolkata",Umpire A,Umpire B
+148,2010,Chennai,2010-04-24,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,6,0,V Kohli,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+149,2010,Chennai,2010-04-25,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,JC Archer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+150,2010,Mumbai,2010-04-26,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,2,T Natarajan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+151,2010,Lucknow,2010-04-27,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,0,4,B Kumar,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+152,2010,Delhi,2010-04-28,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,34,0,B Kumar,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+153,2010,Jaipur,2010-04-29,Punjab Kings,Delhi Capitals,Punjab Kings,bat,normal,0,Delhi Capitals,72,0,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+154,2010,Kolkata,2010-04-30,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,39,0,SK Raina,"Eden Gardens, Kolkata",Umpire A,Umpire B
+155,2010,Delhi,2010-05-01,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,13,0,RA Jadeja,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+156,2010,Lucknow,2010-05-02,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Chennai Super Kings,14,0,SK Raina,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+157,2010,Jaipur,2010-05-03,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,SR Watson,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+158,2010,Mumbai,2010-05-04,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,69,0,Z Khan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+159,2010,Mumbai,2010-05-05,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore,34,0,SR Watson,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+160,2010,Chennai,2010-05-06,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Chennai Super Kings,50,0,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+161,2010,Ahmedabad,2010-05-07,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,,0,0,,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+162,2010,Jaipur,2010-05-08,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,24,0,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+163,2010,Chennai,2010-05-09,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,SR Watson,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+164,2010,Mohali,2010-05-10,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Sunrisers Hyderabad,0,2,V Kohli,"PCA Stadium, Mohali",Umpire A,Umpire B
+165,2010,Delhi,2010-05-11,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,0,Mumbai Indians,0,6,PP Chawla,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+166,2010,Kolkata,2010-05-12,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,V Kohli,"Eden Gardens, Kolkata",Umpire A,Umpire B
+167,2010,Bangalore,2010-05-13,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,89,0,AM Rahane,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+168,2010,Mumbai,2010-05-14,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,normal,0,Rajasthan Royals,86,0,CH Gayle,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+169,2011,Mohali,2011-03-20,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Punjab Kings,7,0,R Ashwin,"PCA Stadium, Mohali",Umpire A,Umpire B
+170,2011,Mohali,2011-03-21,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,45,0,SL Malinga,"PCA Stadium, Mohali",Umpire A,Umpire B
+171,2011,Mumbai,2011-03-22,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,SR Watson,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+172,2011,Kolkata,2011-03-23,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,2,KL Rahul,"Eden Gardens, Kolkata",Umpire A,Umpire B
+173,2011,Chennai,2011-03-24,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,8,Z Khan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+174,2011,Ahmedabad,2011-03-25,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Chennai Super Kings,0,3,MM Sharma,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+175,2011,Delhi,2011-03-26,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,0,2,SS Iyer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+176,2011,Chennai,2011-03-27,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,Z Khan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+177,2011,Kolkata,2011-03-28,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,41,0,V Kohli,"Eden Gardens, Kolkata",Umpire A,Umpire B
+178,2011,Kolkata,2011-03-29,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Rajasthan Royals,25,0,A Nehra,"Eden Gardens, Kolkata",Umpire A,Umpire B
+179,2011,Kolkata,2011-03-30,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,0,3,RG Sharma,"Eden Gardens, Kolkata",Umpire A,Umpire B
+180,2011,Mumbai,2011-03-31,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,0,4,R Ashwin,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+181,2011,Bangalore,2011-04-01,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,69,0,A Mishra,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+182,2011,Bangalore,2011-04-02,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,0,6,SL Malinga,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+183,2011,Chennai,2011-04-03,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians,50,0,SR Watson,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+184,2011,Kolkata,2011-04-04,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,41,0,HV Patel,"Eden Gardens, Kolkata",Umpire A,Umpire B
+185,2011,Mumbai,2011-04-05,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Rajasthan Royals,62,0,T Natarajan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+186,2011,Hyderabad,2011-04-06,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,5,AB de Villiers,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+187,2011,Lucknow,2011-04-07,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,RG Sharma,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+188,2011,Mumbai,2011-04-08,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,8,JP Duminy,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+189,2011,Lucknow,2011-04-09,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,CH Gayle,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+190,2011,Mohali,2011-04-10,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Royal Challengers Bangalore,0,9,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+191,2011,Lucknow,2011-04-11,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals,31,0,R Ashwin,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+192,2011,Hyderabad,2011-04-12,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,0,5,HV Patel,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+193,2011,Chennai,2011-04-13,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,2,0,CH Gayle,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+194,2011,Mumbai,2011-04-14,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,0,5,Mohammed Shami,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+195,2011,Kolkata,2011-04-15,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,4,F du Plessis,"Eden Gardens, Kolkata",Umpire A,Umpire B
+196,2011,Mumbai,2011-04-16,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Delhi Capitals,65,0,SK Raina,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+197,2011,Delhi,2011-04-17,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,15,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+198,2011,Bangalore,2011-04-18,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Delhi Capitals,0,8,SS Iyer,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+199,2011,Ahmedabad,2011-04-19,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,no result,0,,0,0,,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+200,2011,Mumbai,2011-04-20,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,2,K Rabada,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+201,2011,Delhi,2011-04-21,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Sunrisers Hyderabad,0,4,SR Watson,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+202,2011,Ahmedabad,2011-04-22,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,69,0,JJ Bumrah,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+203,2011,Jaipur,2011-04-23,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,84,0,T Natarajan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+204,2011,Jaipur,2011-04-24,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Rajasthan Royals,34,0,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+205,2011,Chennai,2011-04-25,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,79,0,YS Chahal,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+206,2011,Kolkata,2011-04-26,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,,0,0,,"Eden Gardens, Kolkata",Umpire A,Umpire B
+207,2011,Hyderabad,2011-04-27,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,52,0,YS Chahal,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+208,2011,Ahmedabad,2011-04-28,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,normal,0,Sunrisers Hyderabad,60,0,HV Patel,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+209,2011,Lucknow,2011-04-29,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,77,0,R Ashwin,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+210,2011,Lucknow,2011-04-30,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,SL Malinga,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+211,2011,Kolkata,2011-05-01,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,74,0,B Kumar,"Eden Gardens, Kolkata",Umpire A,Umpire B
+212,2011,Delhi,2011-05-02,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,18,0,V Kohli,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+213,2011,Kolkata,2011-05-03,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,no result,0,,0,0,,"Eden Gardens, Kolkata",Umpire A,Umpire B
+214,2011,Ahmedabad,2011-05-04,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,50,0,R Ashwin,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+215,2011,Hyderabad,2011-05-05,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,UT Yadav,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+216,2011,Ahmedabad,2011-05-06,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Delhi Capitals,0,2,AM Rahane,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+217,2011,Kolkata,2011-05-07,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,68,0,SP Narine,"Eden Gardens, Kolkata",Umpire A,Umpire B
+218,2011,Bangalore,2011-05-08,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,normal,0,Punjab Kings,0,3,PP Chawla,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+219,2011,Hyderabad,2011-05-09,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,1,Mohammed Shami,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+220,2011,Chennai,2011-05-10,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,82,0,Q de Kock,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+221,2011,Mohali,2011-05-11,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,0,3,K Rabada,"PCA Stadium, Mohali",Umpire A,Umpire B
+222,2011,Mohali,2011-05-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,2,AT Rayudu,"PCA Stadium, Mohali",Umpire A,Umpire B
+223,2011,Chennai,2011-05-13,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,0,7,DA Warner,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+224,2011,Mumbai,2011-05-14,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Punjab Kings,0,2,A Mishra,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+225,2012,Bangalore,2012-03-20,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,normal,0,Royal Challengers Bangalore,79,0,MM Sharma,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+226,2012,Ahmedabad,2012-03-21,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,79,0,Harbhajan Singh,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+227,2012,Delhi,2012-03-22,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Kolkata Knight Riders,0,2,RA Jadeja,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+228,2012,Chennai,2012-03-23,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,9,KL Rahul,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+229,2012,Mumbai,2012-03-24,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,12,0,JJ Bumrah,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+230,2012,Hyderabad,2012-03-25,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,68,0,T Natarajan,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+231,2012,Kolkata,2012-03-26,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,3,RG Sharma,"Eden Gardens, Kolkata",Umpire A,Umpire B
+232,2012,Chennai,2012-03-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,0,2,AB de Villiers,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+233,2012,Jaipur,2012-03-28,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,RR Pant,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+234,2012,Mumbai,2012-03-29,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,0,4,Harbhajan Singh,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+235,2012,Chennai,2012-03-30,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,59,0,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+236,2012,Ahmedabad,2012-03-31,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,1,0,AB de Villiers,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+237,2012,Delhi,2012-04-01,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,30,0,RG Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+238,2012,Bangalore,2012-04-02,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,8,Harbhajan Singh,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+239,2012,Bangalore,2012-04-03,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,90,0,SK Raina,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+240,2012,Chennai,2012-04-04,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,0,5,UT Yadav,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+241,2012,Bangalore,2012-04-05,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,1,SS Iyer,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+242,2012,Lucknow,2012-04-06,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Punjab Kings,86,0,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+243,2012,Lucknow,2012-04-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,3,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+244,2012,Mumbai,2012-04-08,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Punjab Kings,0,5,Harbhajan Singh,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+245,2012,Mohali,2012-04-09,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Punjab Kings,0,2,SL Malinga,"PCA Stadium, Mohali",Umpire A,Umpire B
+246,2012,Kolkata,2012-04-10,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Punjab Kings,81,0,JJ Bumrah,"Eden Gardens, Kolkata",Umpire A,Umpire B
+247,2012,Lucknow,2012-04-11,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,0,5,Mohammed Shami,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+248,2012,Mumbai,2012-04-12,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Rajasthan Royals,0,9,KL Rahul,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+249,2012,Lucknow,2012-04-13,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,normal,0,Mumbai Indians,0,6,Z Khan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+250,2012,Hyderabad,2012-04-14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,52,0,RG Sharma,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+251,2012,Delhi,2012-04-15,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,8,0,MM Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+252,2012,Mohali,2012-04-16,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,V Kohli,"PCA Stadium, Mohali",Umpire A,Umpire B
+253,2012,Jaipur,2012-04-17,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,0,3,SR Watson,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+254,2012,Delhi,2012-04-18,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,normal,0,Mumbai Indians,67,0,RR Pant,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+255,2012,Jaipur,2012-04-19,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,1,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+256,2012,Mumbai,2012-04-20,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,4,R Ashwin,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+257,2012,Kolkata,2012-04-21,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,6,JP Duminy,"Eden Gardens, Kolkata",Umpire A,Umpire B
+258,2012,Chennai,2012-04-22,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,67,0,SL Malinga,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+259,2012,Kolkata,2012-04-23,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,0,2,PP Chawla,"Eden Gardens, Kolkata",Umpire A,Umpire B
+260,2012,Jaipur,2012-04-24,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,38,0,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+261,2012,Chennai,2012-04-25,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,normal,0,Punjab Kings,8,0,JC Archer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+262,2012,Ahmedabad,2012-04-26,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,0,8,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+263,2012,Delhi,2012-04-27,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,77,0,Z Khan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+264,2012,Hyderabad,2012-04-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,K Rabada,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+265,2012,Lucknow,2012-04-29,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Delhi Capitals,89,0,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+266,2012,Ahmedabad,2012-04-30,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,88,0,SR Watson,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+267,2012,Hyderabad,2012-05-01,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,2,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+268,2012,Delhi,2012-05-02,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,HV Patel,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+269,2012,Chennai,2012-05-03,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,9,T Natarajan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+270,2012,Mohali,2012-05-04,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,27,0,JJ Bumrah,"PCA Stadium, Mohali",Umpire A,Umpire B
+271,2012,Mohali,2012-05-05,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,0,9,F du Plessis,"PCA Stadium, Mohali",Umpire A,Umpire B
+272,2012,Jaipur,2012-05-06,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,3,SL Malinga,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+273,2012,Kolkata,2012-05-07,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Chennai Super Kings,37,0,K Rabada,"Eden Gardens, Kolkata",Umpire A,Umpire B
+274,2012,Ahmedabad,2012-05-08,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,no result,0,,0,0,,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+275,2012,Bangalore,2012-05-09,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,38,0,AT Rayudu,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+276,2012,Mumbai,2012-05-10,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,1,HH Pandya,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+277,2012,Hyderabad,2012-05-11,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,80,0,Z Khan,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+278,2012,Mohali,2012-05-12,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Delhi Capitals,14,0,Mohammed Shami,"PCA Stadium, Mohali",Umpire A,Umpire B
+279,2012,Delhi,2012-05-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,38,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+280,2012,Jaipur,2012-05-14,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,12,0,DA Warner,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+281,2013,Mumbai,2013-03-20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,UT Yadav,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+282,2013,Mohali,2013-03-21,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Punjab Kings,0,6,SL Malinga,"PCA Stadium, Mohali",Umpire A,Umpire B
+283,2013,Mohali,2013-03-22,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,40,0,K Rabada,"PCA Stadium, Mohali",Umpire A,Umpire B
+284,2013,Lucknow,2013-03-23,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Punjab Kings,0,6,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+285,2013,Jaipur,2013-03-24,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore,29,0,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+286,2013,Delhi,2013-03-25,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,1,KA Pollard,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+287,2013,Delhi,2013-03-26,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,normal,0,Royal Challengers Bangalore,0,4,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+288,2013,Delhi,2013-03-27,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,44,0,KA Pollard,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+289,2013,Mohali,2013-03-28,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,18,0,UT Yadav,"PCA Stadium, Mohali",Umpire A,Umpire B
+290,2013,Mumbai,2013-03-29,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,0,Rajasthan Royals,51,0,JP Duminy,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+291,2013,Chennai,2013-03-30,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,2,CH Gayle,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+292,2013,Delhi,2013-03-31,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Punjab Kings,0,9,SR Watson,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+293,2013,Chennai,2013-04-01,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,40,0,AB de Villiers,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+294,2013,Hyderabad,2013-04-02,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,0,4,KA Pollard,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+295,2013,Mumbai,2013-04-03,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,53,0,SK Raina,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+296,2013,Lucknow,2013-04-04,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,0,2,AT Rayudu,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+297,2013,Mohali,2013-04-05,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,3,S Dhawan,"PCA Stadium, Mohali",Umpire A,Umpire B
+298,2013,Ahmedabad,2013-04-06,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Rajasthan Royals,66,0,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+299,2013,Mohali,2013-04-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,8,0,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+300,2013,Mohali,2013-04-08,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Rajasthan Royals,0,4,T Natarajan,"PCA Stadium, Mohali",Umpire A,Umpire B
+301,2013,Mohali,2013-04-09,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,67,0,AB de Villiers,"PCA Stadium, Mohali",Umpire A,Umpire B
+302,2013,Kolkata,2013-04-10,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Punjab Kings,0,4,S Dhawan,"Eden Gardens, Kolkata",Umpire A,Umpire B
+303,2013,Hyderabad,2013-04-11,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,UT Yadav,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+304,2013,Mohali,2013-04-12,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,0,2,T Natarajan,"PCA Stadium, Mohali",Umpire A,Umpire B
+305,2013,Ahmedabad,2013-04-13,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,0,6,Q de Kock,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+306,2013,Hyderabad,2013-04-14,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,75,0,JJ Bumrah,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+307,2013,Jaipur,2013-04-15,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,48,0,A Nehra,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+308,2013,Hyderabad,2013-04-16,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore,60,0,AM Rahane,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+309,2013,Hyderabad,2013-04-17,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,62,0,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+310,2013,Mumbai,2013-04-18,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,0,3,JJ Bumrah,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+311,2013,Mumbai,2013-04-19,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,1,SP Narine,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+312,2013,Ahmedabad,2013-04-20,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,7,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+313,2013,Bangalore,2013-04-21,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,2,0,SR Watson,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+314,2013,Kolkata,2013-04-22,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,49,0,KA Pollard,"Eden Gardens, Kolkata",Umpire A,Umpire B
+315,2013,Delhi,2013-04-23,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Mumbai Indians,70,0,K Rabada,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+316,2013,Ahmedabad,2013-04-24,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,4,Z Khan,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+317,2013,Jaipur,2013-04-25,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Sunrisers Hyderabad,0,3,V Kohli,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+318,2013,Hyderabad,2013-04-26,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,10,0,JC Archer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+319,2013,Chennai,2013-04-27,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,MM Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+320,2013,Jaipur,2013-04-28,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,22,0,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+321,2013,Mumbai,2013-04-29,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,SK Raina,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+322,2013,Hyderabad,2013-04-30,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,4,T Natarajan,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+323,2013,Mohali,2013-05-01,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,3,A Mishra,"PCA Stadium, Mohali",Umpire A,Umpire B
+324,2013,Chennai,2013-05-02,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,9,PP Chawla,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+325,2013,Mohali,2013-05-03,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+326,2013,Lucknow,2013-05-04,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,36,0,KA Pollard,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+327,2013,Jaipur,2013-05-05,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,0,5,UT Yadav,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+328,2013,Delhi,2013-05-06,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Kolkata Knight Riders,0,6,RG Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+329,2013,Lucknow,2013-05-07,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,8,S Dhawan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+330,2013,Bangalore,2013-05-08,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Punjab Kings,46,0,A Mishra,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+331,2013,Chennai,2013-05-09,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,11,0,SP Narine,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+332,2013,Delhi,2013-05-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,B Kumar,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+333,2013,Jaipur,2013-05-11,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,0,8,DA Warner,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+334,2013,Jaipur,2013-05-12,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+335,2013,Delhi,2013-05-13,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Royal Challengers Bangalore,0,5,AT Rayudu,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+336,2013,Mohali,2013-05-14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,33,0,R Ashwin,"PCA Stadium, Mohali",Umpire A,Umpire B
+337,2014,Jaipur,2014-03-20,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,10,0,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+338,2014,Delhi,2014-03-21,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,2,S Dhawan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+339,2014,Bangalore,2014-03-22,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Rajasthan Royals,75,0,CH Gayle,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+340,2014,Bangalore,2014-03-23,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,34,0,RG Sharma,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+341,2014,Jaipur,2014-03-24,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Punjab Kings,37,0,RA Jadeja,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+342,2014,Mumbai,2014-03-25,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,0,6,RG Sharma,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+343,2014,Kolkata,2014-03-26,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,8,0,CH Gayle,"Eden Gardens, Kolkata",Umpire A,Umpire B
+344,2014,Mumbai,2014-03-27,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,18,0,B Kumar,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+345,2014,Mohali,2014-03-28,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,UT Yadav,"PCA Stadium, Mohali",Umpire A,Umpire B
+346,2014,Jaipur,2014-03-29,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,10,0,SS Iyer,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+347,2014,Delhi,2014-03-30,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,0,8,RR Pant,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+348,2014,Hyderabad,2014-03-31,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Punjab Kings,0,7,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+349,2014,Lucknow,2014-04-01,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,84,0,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+350,2014,Ahmedabad,2014-04-02,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,normal,0,Chennai Super Kings,78,0,SP Narine,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+351,2014,Lucknow,2014-04-03,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,67,0,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+352,2014,Delhi,2014-04-04,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,6,0,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+353,2014,Lucknow,2014-04-05,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,6,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+354,2014,Mohali,2014-04-06,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,9,0,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+355,2014,Jaipur,2014-04-07,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,0,5,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+356,2014,Mohali,2014-04-08,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,normal,0,Delhi Capitals,58,0,A Nehra,"PCA Stadium, Mohali",Umpire A,Umpire B
+357,2014,Jaipur,2014-04-09,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,0,3,PP Chawla,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+358,2014,Lucknow,2014-04-10,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,0,5,R Ashwin,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+359,2014,Bangalore,2014-04-11,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,76,0,A Mishra,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+360,2014,Chennai,2014-04-12,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Sunrisers Hyderabad,16,0,PP Chawla,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+361,2014,Chennai,2014-04-13,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,48,0,RG Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+362,2014,Ahmedabad,2014-04-14,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,8,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+363,2014,Kolkata,2014-04-15,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,39,0,KA Pollard,"Eden Gardens, Kolkata",Umpire A,Umpire B
+364,2014,Hyderabad,2014-04-16,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,1,F du Plessis,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+365,2014,Chennai,2014-04-17,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,17,0,AB de Villiers,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+366,2014,Kolkata,2014-04-18,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,HH Pandya,"Eden Gardens, Kolkata",Umpire A,Umpire B
+367,2014,Jaipur,2014-04-19,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Punjab Kings,73,0,HH Pandya,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+368,2014,Bangalore,2014-04-20,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,28,0,SL Malinga,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+369,2014,Bangalore,2014-04-21,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,KA Pollard,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+370,2014,Kolkata,2014-04-22,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Punjab Kings,0,8,AT Rayudu,"Eden Gardens, Kolkata",Umpire A,Umpire B
+371,2014,Lucknow,2014-04-23,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,normal,0,Kolkata Knight Riders,0,4,HV Patel,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+372,2014,Ahmedabad,2014-04-24,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Chennai Super Kings,0,5,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+373,2014,Hyderabad,2014-04-25,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,,0,0,,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+374,2014,Lucknow,2014-04-26,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Punjab Kings,48,0,HH Pandya,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+375,2014,Chennai,2014-04-27,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,0,2,KA Pollard,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+376,2014,Kolkata,2014-04-28,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,17,0,YS Chahal,"Eden Gardens, Kolkata",Umpire A,Umpire B
+377,2014,Jaipur,2014-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,25,0,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+378,2014,Mumbai,2014-04-30,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,normal,0,Delhi Capitals,65,0,DJ Bravo,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+379,2014,Kolkata,2014-05-01,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,9,Z Khan,"Eden Gardens, Kolkata",Umpire A,Umpire B
+380,2014,Jaipur,2014-05-02,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,1,0,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+381,2014,Mumbai,2014-05-03,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,63,0,F du Plessis,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+382,2014,Chennai,2014-05-04,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,S Dhawan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+383,2014,Kolkata,2014-05-05,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,0,7,A Mishra,"Eden Gardens, Kolkata",Umpire A,Umpire B
+384,2014,Lucknow,2014-05-06,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,73,0,HH Pandya,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+385,2014,Hyderabad,2014-05-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,5,SR Watson,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+386,2014,Jaipur,2014-05-08,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+387,2014,Delhi,2014-05-09,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Royal Challengers Bangalore,0,9,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+388,2014,Hyderabad,2014-05-10,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,MS Dhoni,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+389,2014,Mohali,2014-05-11,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+390,2014,Lucknow,2014-05-12,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Delhi Capitals,0,5,UT Yadav,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+391,2014,Jaipur,2014-05-13,Delhi Capitals,Punjab Kings,Punjab Kings,bat,no result,0,,0,0,,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+392,2014,Hyderabad,2014-05-14,Rajasthan Royals,Punjab Kings,Punjab Kings,field,normal,0,Rajasthan Royals,0,2,Harbhajan Singh,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+393,2015,Chennai,2015-03-20,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,76,0,F du Plessis,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+394,2015,Jaipur,2015-03-21,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,52,0,F du Plessis,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+395,2015,Hyderabad,2015-03-22,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,26,0,AT Rayudu,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+396,2015,Delhi,2015-03-23,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,45,0,MM Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+397,2015,Ahmedabad,2015-03-24,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Punjab Kings,0,9,AM Rahane,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+398,2015,Jaipur,2015-03-25,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Mumbai Indians,3,0,SK Raina,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+399,2015,Chennai,2015-03-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,8,CH Gayle,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+400,2015,Delhi,2015-03-27,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Punjab Kings,75,0,AM Rahane,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+401,2015,Jaipur,2015-03-28,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,57,0,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+402,2015,Mumbai,2015-03-29,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,5,JP Duminy,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+403,2015,Chennai,2015-03-30,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,0,3,K Rabada,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+404,2015,Lucknow,2015-03-31,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,4,0,JC Archer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+405,2015,Ahmedabad,2015-04-01,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,normal,0,Punjab Kings,12,0,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+406,2015,Kolkata,2015-04-02,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Kolkata Knight Riders,79,0,DA Warner,"Eden Gardens, Kolkata",Umpire A,Umpire B
+407,2015,Lucknow,2015-04-03,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,0,9,KL Rahul,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+408,2015,Bangalore,2015-04-04,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,55,0,RR Pant,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+409,2015,Ahmedabad,2015-04-05,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Punjab Kings,53,0,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+410,2015,Mumbai,2015-04-06,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,77,0,V Kohli,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+411,2015,Ahmedabad,2015-04-07,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,0,3,Z Khan,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+412,2015,Lucknow,2015-04-08,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,1,UT Yadav,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+413,2015,Jaipur,2015-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,7,JJ Bumrah,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+414,2015,Jaipur,2015-04-10,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,0,9,JP Duminy,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+415,2015,Jaipur,2015-04-11,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,0,1,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+416,2015,Lucknow,2015-04-12,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+417,2015,Lucknow,2015-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,23,0,CH Gayle,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+418,2015,Jaipur,2015-04-14,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Punjab Kings,0,7,B Kumar,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+419,2015,Chennai,2015-04-15,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Chennai Super Kings,37,0,DA Warner,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+420,2015,Bangalore,2015-04-16,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Sunrisers Hyderabad,0,5,AB de Villiers,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+421,2015,Hyderabad,2015-04-17,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,0,2,AM Rahane,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+422,2015,Lucknow,2015-04-18,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,51,0,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+423,2015,Chennai,2015-04-19,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,normal,0,Kolkata Knight Riders,83,0,KL Rahul,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+424,2015,Chennai,2015-04-20,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,12,0,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+425,2015,Delhi,2015-04-21,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Punjab Kings,45,0,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+426,2015,Kolkata,2015-04-22,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Kolkata Knight Riders,0,6,UT Yadav,"Eden Gardens, Kolkata",Umpire A,Umpire B
+427,2015,Chennai,2015-04-23,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Punjab Kings,0,6,T Natarajan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+428,2015,Bangalore,2015-04-24,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,HV Patel,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+429,2015,Delhi,2015-04-25,Punjab Kings,Delhi Capitals,Punjab Kings,field,normal,0,Delhi Capitals,0,7,B Kumar,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+430,2015,Jaipur,2015-04-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,7,0,Mohammed Shami,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+431,2015,Chennai,2015-04-27,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Rajasthan Royals,90,0,SP Narine,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+432,2015,Hyderabad,2015-04-28,Punjab Kings,Chennai Super Kings,Punjab Kings,field,normal,0,Chennai Super Kings,44,0,SK Raina,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+433,2015,Ahmedabad,2015-04-29,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,82,0,SR Watson,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+434,2015,Jaipur,2015-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+435,2015,Jaipur,2015-05-01,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,61,0,SL Malinga,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+436,2015,Ahmedabad,2015-05-02,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals,11,0,PP Chawla,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+437,2015,Mumbai,2015-05-03,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,39,0,AB de Villiers,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+438,2015,Hyderabad,2015-05-04,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,R Ashwin,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+439,2015,Ahmedabad,2015-05-05,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,30,0,Q de Kock,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+440,2015,Hyderabad,2015-05-06,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,1,RR Pant,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+441,2015,Chennai,2015-05-07,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Rajasthan Royals,0,4,Z Khan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+442,2015,Chennai,2015-05-08,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,0,3,SL Malinga,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+443,2015,Ahmedabad,2015-05-09,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,1,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+444,2015,Mohali,2015-05-10,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,82,0,UT Yadav,"PCA Stadium, Mohali",Umpire A,Umpire B
+445,2015,Lucknow,2015-05-11,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,83,0,AT Rayudu,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+446,2015,Lucknow,2015-05-12,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,no result,0,,0,0,,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+447,2015,Kolkata,2015-05-13,Punjab Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Punjab Kings,0,3,YS Chahal,"Eden Gardens, Kolkata",Umpire A,Umpire B
+448,2015,Kolkata,2015-05-14,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,7,PP Chawla,"Eden Gardens, Kolkata",Umpire A,Umpire B
+449,2016,Jaipur,2016-03-20,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Rajasthan Royals,0,8,PP Chawla,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+450,2016,Kolkata,2016-03-21,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,52,0,AM Rahane,"Eden Gardens, Kolkata",Umpire A,Umpire B
+451,2016,Bangalore,2016-03-22,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Chennai Super Kings,16,0,Z Khan,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+452,2016,Mumbai,2016-03-23,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,36,0,MM Sharma,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+453,2016,Mohali,2016-03-24,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Punjab Kings,38,0,SS Iyer,"PCA Stadium, Mohali",Umpire A,Umpire B
+454,2016,Jaipur,2016-03-25,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Punjab Kings,0,6,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+455,2016,Hyderabad,2016-03-26,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,normal,0,Royal Challengers Bangalore,0,4,SS Iyer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+456,2016,Delhi,2016-03-27,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,normal,0,Punjab Kings,79,0,PP Chawla,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+457,2016,Delhi,2016-03-28,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,74,0,MS Dhoni,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+458,2016,Chennai,2016-03-29,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,62,0,RR Pant,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+459,2016,Ahmedabad,2016-03-30,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,34,0,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+460,2016,Chennai,2016-03-31,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,1,AB de Villiers,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+461,2016,Mohali,2016-04-01,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,normal,0,Rajasthan Royals,85,0,JC Archer,"PCA Stadium, Mohali",Umpire A,Umpire B
+462,2016,Kolkata,2016-04-02,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,0,3,F du Plessis,"Eden Gardens, Kolkata",Umpire A,Umpire B
+463,2016,Delhi,2016-04-03,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,6,UT Yadav,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+464,2016,Mohali,2016-04-04,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Mumbai Indians,18,0,UT Yadav,"PCA Stadium, Mohali",Umpire A,Umpire B
+465,2016,Chennai,2016-04-05,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Delhi Capitals,57,0,SS Iyer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+466,2016,Kolkata,2016-04-06,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,0,9,HV Patel,"Eden Gardens, Kolkata",Umpire A,Umpire B
+467,2016,Mumbai,2016-04-07,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Royal Challengers Bangalore,0,2,RG Sharma,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+468,2016,Hyderabad,2016-04-08,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,2,DJ Bravo,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+469,2016,Lucknow,2016-04-09,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,31,0,R Ashwin,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+470,2016,Mumbai,2016-04-10,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,78,0,MM Sharma,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+471,2016,Ahmedabad,2016-04-11,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,0,2,HV Patel,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+472,2016,Lucknow,2016-04-12,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,4,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+473,2016,Lucknow,2016-04-13,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,0,5,HV Patel,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+474,2016,Ahmedabad,2016-04-14,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Rajasthan Royals,0,8,KA Pollard,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+475,2016,Lucknow,2016-04-15,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,3,T Natarajan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+476,2016,Hyderabad,2016-04-16,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,1,RG Sharma,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+477,2016,Mumbai,2016-04-17,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Punjab Kings,36,0,Z Khan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+478,2016,Jaipur,2016-04-18,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+479,2016,Hyderabad,2016-04-19,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,SS Iyer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+480,2016,Hyderabad,2016-04-20,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,1,0,Q de Kock,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+481,2016,Bangalore,2016-04-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,57,0,KL Rahul,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+482,2016,Kolkata,2016-04-22,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,47,0,A Nehra,"Eden Gardens, Kolkata",Umpire A,Umpire B
+483,2016,Jaipur,2016-04-23,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Punjab Kings,71,0,B Kumar,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+484,2016,Lucknow,2016-04-24,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,0,8,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+485,2016,Jaipur,2016-04-25,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,0,6,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+486,2016,Mumbai,2016-04-26,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Rajasthan Royals,36,0,R Ashwin,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+487,2016,Kolkata,2016-04-27,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,31,0,AT Rayudu,"Eden Gardens, Kolkata",Umpire A,Umpire B
+488,2016,Delhi,2016-04-28,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,JC Archer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+489,2016,Ahmedabad,2016-04-29,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,2,0,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+490,2016,Mohali,2016-04-30,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,5,0,SK Raina,"PCA Stadium, Mohali",Umpire A,Umpire B
+491,2016,Mohali,2016-05-01,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,normal,0,Kolkata Knight Riders,0,8,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+492,2016,Hyderabad,2016-05-02,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,50,0,V Kohli,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+493,2016,Jaipur,2016-05-03,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,3,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+494,2016,Delhi,2016-05-04,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,14,0,SP Narine,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+495,2016,Mumbai,2016-05-05,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Punjab Kings,85,0,KL Rahul,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+496,2016,Lucknow,2016-05-06,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,49,0,MS Dhoni,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+497,2016,Hyderabad,2016-05-07,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,AT Rayudu,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+498,2016,Mohali,2016-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,59,0,MS Dhoni,"PCA Stadium, Mohali",Umpire A,Umpire B
+499,2016,Bangalore,2016-05-09,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,59,0,DJ Bravo,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+500,2016,Mumbai,2016-05-10,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,45,0,AB de Villiers,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+501,2016,Jaipur,2016-05-11,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,normal,0,Kolkata Knight Riders,0,4,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+502,2016,Ahmedabad,2016-05-12,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,25,0,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+503,2016,Bangalore,2016-05-13,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,23,0,YS Chahal,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+504,2016,Ahmedabad,2016-05-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,3,K Rabada,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+505,2017,Lucknow,2017-03-20,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,0,2,JJ Bumrah,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+506,2017,Hyderabad,2017-03-21,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,74,0,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+507,2017,Jaipur,2017-03-22,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+508,2017,Chennai,2017-03-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,2,SL Malinga,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+509,2017,Lucknow,2017-03-24,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,88,0,MM Sharma,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+510,2017,Chennai,2017-03-25,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Delhi Capitals,79,0,A Mishra,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+511,2017,Bangalore,2017-03-26,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Rajasthan Royals,50,0,HH Pandya,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+512,2017,Delhi,2017-03-27,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,0,3,JC Archer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+513,2017,Hyderabad,2017-03-28,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,4,AB de Villiers,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+514,2017,Kolkata,2017-03-29,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,normal,0,Punjab Kings,0,9,KL Rahul,"Eden Gardens, Kolkata",Umpire A,Umpire B
+515,2017,Bangalore,2017-03-30,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,SL Malinga,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+516,2017,Mumbai,2017-03-31,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,0,4,JC Archer,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+517,2017,Kolkata,2017-04-01,Mumbai Indians,Punjab Kings,Punjab Kings,field,normal,0,Mumbai Indians,40,0,RA Jadeja,"Eden Gardens, Kolkata",Umpire A,Umpire B
+518,2017,Lucknow,2017-04-02,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,2,A Mishra,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+519,2017,Jaipur,2017-04-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,55,0,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+520,2017,Ahmedabad,2017-04-04,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,42,0,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+521,2017,Bangalore,2017-04-05,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,normal,0,Delhi Capitals,0,7,R Ashwin,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+522,2017,Mohali,2017-04-06,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,5,HV Patel,"PCA Stadium, Mohali",Umpire A,Umpire B
+523,2017,Jaipur,2017-04-07,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,2,Mohammed Shami,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+524,2017,Jaipur,2017-04-08,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Delhi Capitals,88,0,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+525,2017,Chennai,2017-04-09,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Chennai Super Kings,1,0,DA Warner,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+526,2017,Kolkata,2017-04-10,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,90,0,RG Sharma,"Eden Gardens, Kolkata",Umpire A,Umpire B
+527,2017,Mumbai,2017-04-11,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Delhi Capitals,9,0,K Rabada,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+528,2017,Delhi,2017-04-12,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,HV Patel,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+529,2017,Kolkata,2017-04-13,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Delhi Capitals,0,8,JC Archer,"Eden Gardens, Kolkata",Umpire A,Umpire B
+530,2017,Hyderabad,2017-04-14,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,SP Narine,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+531,2017,Delhi,2017-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Sunrisers Hyderabad,0,6,RR Pant,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+532,2017,Hyderabad,2017-04-16,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,54,0,DJ Bravo,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+533,2017,Lucknow,2017-04-17,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,87,0,B Kumar,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+534,2017,Mumbai,2017-04-18,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,KA Pollard,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+535,2017,Jaipur,2017-04-19,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,0,9,F du Plessis,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+536,2017,Bangalore,2017-04-20,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Punjab Kings,83,0,K Rabada,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+537,2017,Ahmedabad,2017-04-21,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,1,A Mishra,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+538,2017,Hyderabad,2017-04-22,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+539,2017,Jaipur,2017-04-23,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Delhi Capitals,0,6,JJ Bumrah,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+540,2017,Hyderabad,2017-04-24,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,67,0,SR Watson,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+541,2017,Jaipur,2017-04-25,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,normal,0,Punjab Kings,25,0,RA Jadeja,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+542,2017,Bangalore,2017-04-26,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Punjab Kings,0,2,UT Yadav,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+543,2017,Delhi,2017-04-27,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,27,0,JC Archer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+544,2017,Hyderabad,2017-04-28,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore,0,2,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+545,2017,Chennai,2017-04-29,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Punjab Kings,0,2,R Ashwin,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+546,2017,Lucknow,2017-04-30,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,0,9,RG Sharma,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+547,2017,Bangalore,2017-05-01,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,84,0,T Natarajan,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+548,2017,Bangalore,2017-05-02,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,0,6,SS Iyer,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+549,2017,Kolkata,2017-05-03,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Delhi Capitals,0,5,AT Rayudu,"Eden Gardens, Kolkata",Umpire A,Umpire B
+550,2017,Delhi,2017-05-04,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,9,KL Rahul,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+551,2017,Lucknow,2017-05-05,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,38,0,F du Plessis,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+552,2017,Chennai,2017-05-06,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,4,V Kohli,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+553,2017,Chennai,2017-05-07,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,23,0,JJ Bumrah,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+554,2017,Bangalore,2017-05-08,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,MM Sharma,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+555,2017,Mohali,2017-05-09,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,2,Harbhajan Singh,"PCA Stadium, Mohali",Umpire A,Umpire B
+556,2017,Ahmedabad,2017-05-10,Delhi Capitals,Punjab Kings,Punjab Kings,field,no result,0,,0,0,,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+557,2017,Jaipur,2017-05-11,Punjab Kings,Mumbai Indians,Punjab Kings,bat,normal,0,Punjab Kings,74,0,Z Khan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+558,2017,Hyderabad,2017-05-12,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,6,JJ Bumrah,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+559,2017,Bangalore,2017-05-13,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,43,0,JC Archer,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+560,2017,Jaipur,2017-05-14,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,64,0,R Ashwin,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+561,2018,Chennai,2018-03-20,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,0,1,F du Plessis,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+562,2018,Bangalore,2018-03-21,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,B Kumar,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+563,2018,Kolkata,2018-03-22,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,1,DA Warner,"Eden Gardens, Kolkata",Umpire A,Umpire B
+564,2018,Ahmedabad,2018-03-23,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,Q de Kock,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+565,2018,Delhi,2018-03-24,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,6,B Kumar,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+566,2018,Lucknow,2018-03-25,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Royal Challengers Bangalore,56,0,B Kumar,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+567,2018,Ahmedabad,2018-03-26,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,0,4,K Rabada,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+568,2018,Bangalore,2018-03-27,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,70,0,DJ Bravo,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+569,2018,Mohali,2018-03-28,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,42,0,HH Pandya,"PCA Stadium, Mohali",Umpire A,Umpire B
+570,2018,Mohali,2018-03-29,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,5,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+571,2018,Jaipur,2018-03-30,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Punjab Kings,0,6,A Mishra,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+572,2018,Mohali,2018-03-31,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,25,0,SR Watson,"PCA Stadium, Mohali",Umpire A,Umpire B
+573,2018,Bangalore,2018-04-01,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,normal,0,Delhi Capitals,53,0,Harbhajan Singh,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+574,2018,Bangalore,2018-04-02,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Rajasthan Royals,13,0,DJ Bravo,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+575,2018,Delhi,2018-04-03,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,3,PP Chawla,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+576,2018,Mohali,2018-04-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,58,0,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+577,2018,Lucknow,2018-04-05,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,9,0,JJ Bumrah,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+578,2018,Hyderabad,2018-04-06,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,normal,0,Kolkata Knight Riders,0,1,RG Sharma,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+579,2018,Chennai,2018-04-07,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,22,0,UT Yadav,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+580,2018,Mumbai,2018-04-08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,2,RA Jadeja,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+581,2018,Jaipur,2018-04-09,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Punjab Kings,0,4,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+582,2018,Ahmedabad,2018-04-10,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,0,6,JC Archer,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+583,2018,Ahmedabad,2018-04-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,0,5,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+584,2018,Ahmedabad,2018-04-12,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,53,0,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+585,2018,Ahmedabad,2018-04-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Sunrisers Hyderabad,0,6,PP Chawla,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+586,2018,Kolkata,2018-04-14,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,V Kohli,"Eden Gardens, Kolkata",Umpire A,Umpire B
+587,2018,Kolkata,2018-04-15,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,1,JP Duminy,"Eden Gardens, Kolkata",Umpire A,Umpire B
+588,2018,Mohali,2018-04-16,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,62,0,AM Rahane,"PCA Stadium, Mohali",Umpire A,Umpire B
+589,2018,Lucknow,2018-04-17,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,2,JC Archer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+590,2018,Mumbai,2018-04-18,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,84,0,JC Archer,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+591,2018,Mohali,2018-04-19,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,0,5,AM Rahane,"PCA Stadium, Mohali",Umpire A,Umpire B
+592,2018,Ahmedabad,2018-04-20,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,9,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+593,2018,Hyderabad,2018-04-21,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians,12,0,JC Archer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+594,2018,Hyderabad,2018-04-22,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,0,6,R Ashwin,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+595,2018,Mumbai,2018-04-23,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,88,0,SS Iyer,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+596,2018,Jaipur,2018-04-24,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,4,JP Duminy,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+597,2018,Mohali,2018-04-25,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Royal Challengers Bangalore,74,0,B Kumar,"PCA Stadium, Mohali",Umpire A,Umpire B
+598,2018,Mumbai,2018-04-26,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,1,F du Plessis,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+599,2018,Delhi,2018-04-27,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,50,0,SS Iyer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+600,2018,Kolkata,2018-04-28,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,79,0,AB de Villiers,"Eden Gardens, Kolkata",Umpire A,Umpire B
+601,2018,Jaipur,2018-04-29,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Punjab Kings,64,0,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+602,2018,Delhi,2018-04-30,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,2,SR Watson,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+603,2018,Chennai,2018-05-01,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Rajasthan Royals,0,5,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+604,2018,Ahmedabad,2018-05-02,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Mumbai Indians,14,0,SR Watson,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+605,2018,Hyderabad,2018-05-03,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Delhi Capitals,88,0,CH Gayle,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+606,2018,Jaipur,2018-05-04,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,7,AT Rayudu,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+607,2018,Mumbai,2018-05-05,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,0,9,MS Dhoni,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+608,2018,Kolkata,2018-05-06,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,72,0,JJ Bumrah,"Eden Gardens, Kolkata",Umpire A,Umpire B
+609,2018,Bangalore,2018-05-07,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Delhi Capitals,76,0,JJ Bumrah,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+610,2018,Chennai,2018-05-08,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,0,3,MM Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+611,2018,Ahmedabad,2018-05-09,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders,9,0,RR Pant,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+612,2018,Mumbai,2018-05-10,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Punjab Kings,0,4,B Kumar,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+613,2018,Bangalore,2018-05-11,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,V Kohli,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+614,2018,Mohali,2018-05-12,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,7,A Mishra,"PCA Stadium, Mohali",Umpire A,Umpire B
+615,2018,Mohali,2018-05-13,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,69,0,JJ Bumrah,"PCA Stadium, Mohali",Umpire A,Umpire B
+616,2018,Delhi,2018-05-14,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,46,0,S Dhawan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+617,2019,Bangalore,2019-03-20,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,0,2,HH Pandya,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+618,2019,Kolkata,2019-03-21,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,37,0,B Kumar,"Eden Gardens, Kolkata",Umpire A,Umpire B
+619,2019,Kolkata,2019-03-22,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,75,0,KA Pollard,"Eden Gardens, Kolkata",Umpire A,Umpire B
+620,2019,Mumbai,2019-03-23,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,47,0,HV Patel,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+621,2019,Lucknow,2019-03-24,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Mumbai Indians,0,4,T Natarajan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+622,2019,Chennai,2019-03-25,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,0,5,AM Rahane,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+623,2019,Ahmedabad,2019-03-26,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,0,6,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+624,2019,Lucknow,2019-03-27,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,0,1,Q de Kock,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+625,2019,Mohali,2019-03-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Chennai Super Kings,21,0,PP Chawla,"PCA Stadium, Mohali",Umpire A,Umpire B
+626,2019,Jaipur,2019-03-29,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Rajasthan Royals,23,0,HH Pandya,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+627,2019,Delhi,2019-03-30,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Rajasthan Royals,10,0,CH Gayle,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+628,2019,Hyderabad,2019-03-31,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,9,PP Chawla,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+629,2019,Kolkata,2019-04-01,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,0,3,JJ Bumrah,"Eden Gardens, Kolkata",Umpire A,Umpire B
+630,2019,Mohali,2019-04-02,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,0,1,V Kohli,"PCA Stadium, Mohali",Umpire A,Umpire B
+631,2019,Bangalore,2019-04-03,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,45,0,HV Patel,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+632,2019,Chennai,2019-04-04,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,26,0,S Dhawan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+633,2019,Mumbai,2019-04-05,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,0,8,JJ Bumrah,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+634,2019,Lucknow,2019-04-06,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,52,0,Mohammed Shami,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+635,2019,Hyderabad,2019-04-07,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,16,0,F du Plessis,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+636,2019,Ahmedabad,2019-04-08,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,0,8,Harbhajan Singh,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+637,2019,Jaipur,2019-04-09,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+638,2019,Chennai,2019-04-10,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,normal,0,Rajasthan Royals,17,0,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+639,2019,Jaipur,2019-04-11,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,0,7,SS Iyer,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+640,2019,Jaipur,2019-04-12,Punjab Kings,Mumbai Indians,Punjab Kings,field,normal,0,Mumbai Indians,88,0,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+641,2019,Hyderabad,2019-04-13,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,0,8,HV Patel,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+642,2019,Jaipur,2019-04-14,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,79,0,JJ Bumrah,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+643,2019,Chennai,2019-04-15,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Sunrisers Hyderabad,0,2,HV Patel,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+644,2019,Mumbai,2019-04-16,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,77,0,R Ashwin,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+645,2019,Bangalore,2019-04-17,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,0,3,SL Malinga,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+646,2019,Ahmedabad,2019-04-18,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,8,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+647,2019,Kolkata,2019-04-19,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Punjab Kings,0,1,R Ashwin,"Eden Gardens, Kolkata",Umpire A,Umpire B
+648,2019,Ahmedabad,2019-04-20,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Rajasthan Royals,73,0,UT Yadav,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+649,2019,Lucknow,2019-04-21,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,3,MS Dhoni,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+650,2019,Mohali,2019-04-22,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,61,0,HH Pandya,"PCA Stadium, Mohali",Umpire A,Umpire B
+651,2019,Hyderabad,2019-04-23,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,3,A Mishra,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+652,2019,Jaipur,2019-04-24,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,8,JP Duminy,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+653,2019,Jaipur,2019-04-25,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Delhi Capitals,0,7,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+654,2019,Hyderabad,2019-04-26,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,0,1,SR Watson,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+655,2019,Chennai,2019-04-27,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,normal,0,Rajasthan Royals,42,0,Z Khan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+656,2019,Mumbai,2019-04-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,52,0,Z Khan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+657,2019,Jaipur,2019-04-29,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Rajasthan Royals,0,4,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+658,2019,Chennai,2019-04-30,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,0,2,A Nehra,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+659,2019,Ahmedabad,2019-05-01,Punjab Kings,Rajasthan Royals,Punjab Kings,field,normal,0,Rajasthan Royals,32,0,KL Rahul,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+660,2019,Lucknow,2019-05-02,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,1,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+661,2019,Kolkata,2019-05-03,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,0,5,RA Jadeja,"Eden Gardens, Kolkata",Umpire A,Umpire B
+662,2019,Kolkata,2019-05-04,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,75,0,JP Duminy,"Eden Gardens, Kolkata",Umpire A,Umpire B
+663,2019,Lucknow,2019-05-05,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,69,0,SS Iyer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+664,2019,Ahmedabad,2019-05-06,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,19,0,AT Rayudu,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+665,2019,Delhi,2019-05-07,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Punjab Kings,0,4,HH Pandya,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+666,2019,Delhi,2019-05-08,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,89,0,DA Warner,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+667,2019,Jaipur,2019-05-09,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,67,0,A Nehra,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+668,2019,Kolkata,2019-05-10,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,0,5,Harbhajan Singh,"Eden Gardens, Kolkata",Umpire A,Umpire B
+669,2019,Kolkata,2019-05-11,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,56,0,R Ashwin,"Eden Gardens, Kolkata",Umpire A,Umpire B
+670,2019,Mumbai,2019-05-12,Punjab Kings,Mumbai Indians,Punjab Kings,bat,normal,0,Punjab Kings,0,4,MS Dhoni,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+671,2019,Jaipur,2019-05-13,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,36,0,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+672,2019,Kolkata,2019-05-14,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,2,HV Patel,"Eden Gardens, Kolkata",Umpire A,Umpire B
+673,2020,Lucknow,2020-03-20,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Sunrisers Hyderabad,36,0,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+674,2020,Jaipur,2020-03-21,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,6,SP Narine,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+675,2020,Hyderabad,2020-03-22,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,JC Archer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+676,2020,Bangalore,2020-03-23,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,6,V Kohli,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+677,2020,Mumbai,2020-03-24,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,56,0,AT Rayudu,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+678,2020,Delhi,2020-03-25,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,52,0,R Ashwin,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+679,2020,Kolkata,2020-03-26,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,no result,0,,0,0,,"Eden Gardens, Kolkata",Umpire A,Umpire B
+680,2020,Ahmedabad,2020-03-27,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,normal,0,Delhi Capitals,21,0,A Mishra,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+681,2020,Mumbai,2020-03-28,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,56,0,AB de Villiers,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+682,2020,Hyderabad,2020-03-29,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,6,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+683,2020,Bangalore,2020-03-30,Delhi Capitals,Punjab Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,S Dhawan,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+684,2020,Bangalore,2020-03-31,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,0,1,SP Narine,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+685,2020,Ahmedabad,2020-04-01,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,2,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+686,2020,Bangalore,2020-04-02,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Punjab Kings,12,0,SS Iyer,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+687,2020,Lucknow,2020-04-03,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,2,Harbhajan Singh,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+688,2020,Hyderabad,2020-04-04,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,0,4,UT Yadav,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+689,2020,Ahmedabad,2020-04-05,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,17,0,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+690,2020,Hyderabad,2020-04-06,Delhi Capitals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,1,CH Gayle,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+691,2020,Kolkata,2020-04-07,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Chennai Super Kings,4,0,AB de Villiers,"Eden Gardens, Kolkata",Umpire A,Umpire B
+692,2020,Hyderabad,2020-04-08,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,0,3,SR Watson,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+693,2020,Chennai,2020-04-09,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,15,0,SS Iyer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+694,2020,Hyderabad,2020-04-10,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,normal,0,Sunrisers Hyderabad,45,0,F du Plessis,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+695,2020,Delhi,2020-04-11,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,31,0,HV Patel,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+696,2020,Mumbai,2020-04-12,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,Mohammed Shami,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+697,2020,Mumbai,2020-04-13,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Delhi Capitals,0,9,A Nehra,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+698,2020,Chennai,2020-04-14,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,5,YS Chahal,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+699,2020,Chennai,2020-04-15,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,0,6,V Kohli,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+700,2020,Ahmedabad,2020-04-16,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad,87,0,Q de Kock,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+701,2020,Chennai,2020-04-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,6,S Dhawan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+702,2020,Chennai,2020-04-18,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Mumbai Indians,0,1,T Natarajan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+703,2020,Mumbai,2020-04-19,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,no result,0,,0,0,,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+704,2020,Jaipur,2020-04-20,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,normal,0,Chennai Super Kings,42,0,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+705,2020,Lucknow,2020-04-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,5,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+706,2020,Jaipur,2020-04-22,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings,0,7,A Nehra,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+707,2020,Kolkata,2020-04-23,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,0,2,RA Jadeja,"Eden Gardens, Kolkata",Umpire A,Umpire B
+708,2020,Lucknow,2020-04-24,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,64,0,CH Gayle,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+709,2020,Lucknow,2020-04-25,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Rajasthan Royals,0,3,S Dhawan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+710,2020,Hyderabad,2020-04-26,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Chennai Super Kings,80,0,KL Rahul,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+711,2020,Delhi,2020-04-27,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,normal,0,Mumbai Indians,0,5,DA Warner,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+712,2020,Kolkata,2020-04-28,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Chennai Super Kings,0,6,AM Rahane,"Eden Gardens, Kolkata",Umpire A,Umpire B
+713,2020,Chennai,2020-04-29,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,25,0,PP Chawla,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+714,2020,Lucknow,2020-04-30,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Chennai Super Kings,38,0,T Natarajan,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+715,2020,Mohali,2020-05-01,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,0,5,AM Rahane,"PCA Stadium, Mohali",Umpire A,Umpire B
+716,2020,Jaipur,2020-05-02,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,74,0,R Ashwin,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+717,2020,Delhi,2020-05-03,Punjab Kings,Mumbai Indians,Punjab Kings,bat,normal,0,Mumbai Indians,42,0,DA Warner,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+718,2020,Kolkata,2020-05-04,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,17,0,DJ Bravo,"Eden Gardens, Kolkata",Umpire A,Umpire B
+719,2020,Jaipur,2020-05-05,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,16,0,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+720,2020,Delhi,2020-05-06,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,normal,0,Punjab Kings,0,5,SR Watson,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+721,2020,Bangalore,2020-05-07,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,normal,0,Kolkata Knight Riders,0,1,AM Rahane,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+722,2020,Delhi,2020-05-08,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,no result,0,,0,0,,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+723,2020,Bangalore,2020-05-09,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,0,1,AT Rayudu,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+724,2020,Lucknow,2020-05-10,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Punjab Kings,0,1,SP Narine,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+725,2020,Mohali,2020-05-11,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,0,7,R Ashwin,"PCA Stadium, Mohali",Umpire A,Umpire B
+726,2020,Chennai,2020-05-12,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,no result,0,,0,0,,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+727,2020,Hyderabad,2020-05-13,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,72,0,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+728,2020,Delhi,2020-05-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,8,0,DJ Bravo,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+729,2021,Ahmedabad,2021-03-20,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,normal,0,Chennai Super Kings,25,0,MM Sharma,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+730,2021,Hyderabad,2021-03-21,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Punjab Kings,0,3,Q de Kock,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+731,2021,Chennai,2021-03-22,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,1,JP Duminy,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+732,2021,Lucknow,2021-03-23,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,0,4,MS Dhoni,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+733,2021,Lucknow,2021-03-24,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,no result,0,,0,0,,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+734,2021,Mumbai,2021-03-25,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,6,0,Z Khan,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+735,2021,Lucknow,2021-03-26,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,39,0,F du Plessis,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+736,2021,Chennai,2021-03-27,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,0,3,AT Rayudu,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+737,2021,Hyderabad,2021-03-28,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,6,S Dhawan,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+738,2021,Bangalore,2021-03-29,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians,39,0,Harbhajan Singh,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+739,2021,Chennai,2021-03-30,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,7,SS Iyer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+740,2021,Lucknow,2021-03-31,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,79,0,F du Plessis,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+741,2021,Chennai,2021-04-01,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,28,0,HH Pandya,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+742,2021,Bangalore,2021-04-02,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,0,1,A Mishra,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+743,2021,Mumbai,2021-04-03,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,no result,0,,0,0,,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+744,2021,Mumbai,2021-04-04,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,3,AM Rahane,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+745,2021,Delhi,2021-04-05,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,normal,0,Punjab Kings,26,0,MM Sharma,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+746,2021,Chennai,2021-04-06,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,33,0,T Natarajan,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+747,2021,Jaipur,2021-04-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,88,0,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+748,2021,Mohali,2021-04-08,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,normal,0,Sunrisers Hyderabad,0,4,SL Malinga,"PCA Stadium, Mohali",Umpire A,Umpire B
+749,2021,Delhi,2021-04-09,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,70,0,RA Jadeja,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+750,2021,Ahmedabad,2021-04-10,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,2,AT Rayudu,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+751,2021,Hyderabad,2021-04-11,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,46,0,AB de Villiers,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+752,2021,Bangalore,2021-04-12,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,0,7,DJ Bravo,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+753,2021,Lucknow,2021-04-13,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,normal,0,Punjab Kings,14,0,JJ Bumrah,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+754,2021,Chennai,2021-04-14,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,6,DJ Bravo,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+755,2021,Jaipur,2021-04-15,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Sunrisers Hyderabad,74,0,V Kohli,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+756,2021,Mohali,2021-04-16,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Rajasthan Royals,0,2,YS Chahal,"PCA Stadium, Mohali",Umpire A,Umpire B
+757,2021,Chennai,2021-04-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,3,RG Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+758,2021,Kolkata,2021-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,0,2,R Ashwin,"Eden Gardens, Kolkata",Umpire A,Umpire B
+759,2021,Bangalore,2021-04-19,Rajasthan Royals,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,25,0,DJ Bravo,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+760,2021,Ahmedabad,2021-04-20,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+761,2021,Hyderabad,2021-04-21,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,0,8,V Kohli,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+762,2021,Jaipur,2021-04-22,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,0,5,K Rabada,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+763,2021,Kolkata,2021-04-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,0,5,SS Iyer,"Eden Gardens, Kolkata",Umpire A,Umpire B
+764,2021,Jaipur,2021-04-24,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,29,0,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+765,2021,Mumbai,2021-04-25,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,90,0,RR Pant,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+766,2021,Lucknow,2021-04-26,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,42,0,AB de Villiers,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+767,2021,Ahmedabad,2021-04-27,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,0,1,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+768,2021,Chennai,2021-04-28,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Mumbai Indians,0,7,UT Yadav,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+769,2021,Lucknow,2021-04-29,Chennai Super Kings,Punjab Kings,Punjab Kings,field,normal,0,Chennai Super Kings,0,2,RG Sharma,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+770,2021,Bangalore,2021-04-30,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,22,0,SP Narine,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+771,2021,Lucknow,2021-05-01,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,0,4,R Ashwin,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+772,2021,Kolkata,2021-05-02,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,45,0,SS Iyer,"Eden Gardens, Kolkata",Umpire A,Umpire B
+773,2021,Chennai,2021-05-03,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,normal,0,Kolkata Knight Riders,33,0,SL Malinga,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+774,2021,Jaipur,2021-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad,33,0,R Ashwin,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+775,2021,Jaipur,2021-05-05,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,K Rabada,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+776,2021,Delhi,2021-05-06,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,0,Sunrisers Hyderabad,0,4,T Natarajan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+777,2021,Lucknow,2021-05-07,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,3,HH Pandya,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+778,2021,Mumbai,2021-05-08,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,SR Watson,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+779,2021,Lucknow,2021-05-09,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Punjab Kings,0,4,SS Iyer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+780,2021,Ahmedabad,2021-05-10,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,81,0,Z Khan,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+781,2021,Bangalore,2021-05-11,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Chennai Super Kings,12,0,RA Jadeja,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+782,2021,Mohali,2021-05-12,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,41,0,SS Iyer,"PCA Stadium, Mohali",Umpire A,Umpire B
+783,2021,Mumbai,2021-05-13,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,4,KL Rahul,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+784,2021,Ahmedabad,2021-05-14,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,11,0,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+785,2022,Chennai,2022-03-20,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,0,6,AT Rayudu,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+786,2022,Delhi,2022-03-21,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,normal,0,Kolkata Knight Riders,72,0,SL Malinga,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+787,2022,Lucknow,2022-03-22,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,5,0,UT Yadav,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+788,2022,Lucknow,2022-03-23,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Royal Challengers Bangalore,33,0,JC Archer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+789,2022,Lucknow,2022-03-24,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,normal,0,Lucknow Super Giants,23,0,F du Plessis,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+790,2022,Chennai,2022-03-25,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,7,JC Archer,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+791,2022,Ahmedabad,2022-03-26,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,8,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+792,2022,Ahmedabad,2022-03-27,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,6,A Mishra,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+793,2022,Jaipur,2022-03-28,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Capitals,23,0,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+794,2022,Bangalore,2022-03-29,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,normal,0,Punjab Kings,82,0,KA Pollard,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+795,2022,Kolkata,2022-03-30,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,bat,normal,0,Lucknow Super Giants,78,0,CH Gayle,"Eden Gardens, Kolkata",Umpire A,Umpire B
+796,2022,Mohali,2022-03-31,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,1,Z Khan,"PCA Stadium, Mohali",Umpire A,Umpire B
+797,2022,Ahmedabad,2022-04-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Rajasthan Royals,9,0,DA Warner,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+798,2022,Hyderabad,2022-04-02,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,36,0,SP Narine,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+799,2022,Delhi,2022-04-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,T Natarajan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+800,2022,Lucknow,2022-04-04,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Sunrisers Hyderabad,84,0,SR Watson,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+801,2022,Kolkata,2022-04-05,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,8,Mohammed Shami,"Eden Gardens, Kolkata",Umpire A,Umpire B
+802,2022,Jaipur,2022-04-06,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Chennai Super Kings,20,0,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+803,2022,Hyderabad,2022-04-07,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,normal,0,Mumbai Indians,4,0,HV Patel,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+804,2022,Lucknow,2022-04-08,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,normal,0,Kolkata Knight Riders,41,0,HH Pandya,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+805,2022,Bangalore,2022-04-09,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,5,0,AM Rahane,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+806,2022,Mumbai,2022-04-10,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Punjab Kings,53,0,JP Duminy,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+807,2022,Jaipur,2022-04-11,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Gujarat Titans,0,9,RR Pant,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+808,2022,Mohali,2022-04-12,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,normal,0,Rajasthan Royals,46,0,A Nehra,"PCA Stadium, Mohali",Umpire A,Umpire B
+809,2022,Hyderabad,2022-04-13,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,CH Gayle,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+810,2022,Chennai,2022-04-14,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,3,RG Sharma,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+811,2022,Ahmedabad,2022-04-15,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,53,0,RA Jadeja,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+812,2022,Delhi,2022-04-16,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,normal,0,Royal Challengers Bangalore,0,7,UT Yadav,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+813,2022,Mohali,2022-04-17,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,66,0,RA Jadeja,"PCA Stadium, Mohali",Umpire A,Umpire B
+814,2022,Ahmedabad,2022-04-18,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,bat,normal,0,Lucknow Super Giants,19,0,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+815,2022,Bangalore,2022-04-19,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,normal,0,Royal Challengers Bangalore,60,0,UT Yadav,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+816,2022,Mohali,2022-04-20,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,normal,0,Gujarat Titans,62,0,KL Rahul,"PCA Stadium, Mohali",Umpire A,Umpire B
+817,2022,Bangalore,2022-04-21,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,33,0,DA Warner,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+818,2022,Hyderabad,2022-04-22,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Punjab Kings,42,0,V Kohli,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+819,2022,Bangalore,2022-04-23,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Mumbai Indians,60,0,MS Dhoni,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+820,2022,Kolkata,2022-04-24,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,52,0,HV Patel,"Eden Gardens, Kolkata",Umpire A,Umpire B
+821,2022,Delhi,2022-04-25,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,normal,0,Kolkata Knight Riders,6,0,B Kumar,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+822,2022,Jaipur,2022-04-26,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,0,7,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+823,2022,Lucknow,2022-04-27,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,normal,0,Mumbai Indians,0,4,SL Malinga,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+824,2022,Delhi,2022-04-28,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,AB de Villiers,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+825,2022,Mohali,2022-04-29,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,0,4,Q de Kock,"PCA Stadium, Mohali",Umpire A,Umpire B
+826,2022,Kolkata,2022-04-30,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,0,4,F du Plessis,"Eden Gardens, Kolkata",Umpire A,Umpire B
+827,2022,Bangalore,2022-05-01,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,normal,0,Gujarat Titans,38,0,UT Yadav,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+828,2022,Kolkata,2022-05-02,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,0,8,Mohammed Shami,"Eden Gardens, Kolkata",Umpire A,Umpire B
+829,2022,Delhi,2022-05-03,Punjab Kings,Mumbai Indians,Punjab Kings,bat,normal,0,Mumbai Indians,77,0,JC Archer,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+830,2022,Delhi,2022-05-04,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Chennai Super Kings,7,0,UT Yadav,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+831,2022,Kolkata,2022-05-05,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,4,KA Pollard,"Eden Gardens, Kolkata",Umpire A,Umpire B
+832,2022,Jaipur,2022-05-06,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,normal,0,Punjab Kings,18,0,HV Patel,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+833,2022,Kolkata,2022-05-07,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,0,4,PP Chawla,"Eden Gardens, Kolkata",Umpire A,Umpire B
+834,2022,Ahmedabad,2022-05-08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,36,0,V Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+835,2022,Bangalore,2022-05-09,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,0,Delhi Capitals,68,0,JJ Bumrah,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+836,2022,Mohali,2022-05-10,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,32,0,SK Raina,"PCA Stadium, Mohali",Umpire A,Umpire B
+837,2022,Bangalore,2022-05-11,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,normal,0,Gujarat Titans,16,0,Z Khan,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+838,2022,Delhi,2022-05-12,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,CH Gayle,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+839,2022,Hyderabad,2022-05-13,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,field,normal,0,Gujarat Titans,0,8,DA Warner,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+840,2022,Lucknow,2022-05-14,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Punjab Kings,0,1,JC Archer,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+841,2022,Hyderabad,2022-05-15,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,85,0,R Ashwin,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+842,2022,Lucknow,2022-05-16,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,3,YS Chahal,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire A,Umpire B
+843,2022,Mumbai,2022-05-17,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,normal,0,Punjab Kings,80,0,F du Plessis,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+844,2022,Chennai,2022-05-18,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,0,5,V Kohli,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+845,2022,Bangalore,2022-05-19,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,4,F du Plessis,"M Chinnaswamy Stadium, Bangalore",Umpire A,Umpire B
+846,2022,Chennai,2022-05-20,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,44,0,AM Rahane,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+847,2022,Chennai,2022-05-21,Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,normal,0,Gujarat Titans,90,0,Q de Kock,"MA Chidambaram Stadium, Chennai",Umpire A,Umpire B
+848,2022,Jaipur,2022-05-22,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,7,0,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Umpire A,Umpire B
+849,2022,Mumbai,2022-05-23,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,0,7,DA Warner,"Wankhede Stadium, Mumbai",Umpire A,Umpire B
+850,2022,Ahmedabad,2022-05-24,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,normal,0,Rajasthan Royals,0,6,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+851,2022,Delhi,2022-05-25,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Gujarat Titans,0,9,T Natarajan,"Arun Jaitley Stadium, Delhi",Umpire A,Umpire B
+852,2022,Hyderabad,2022-05-26,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,56,0,JC Archer,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",Umpire A,Umpire B
+853,2022,Ahmedabad,2022-05-27,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,PP Chawla,"Narendra Modi Stadium, Ahmedabad",Umpire A,Umpire B
+854,2022,Mohali,2022-05-28,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,70,0,RG Sharma,"PCA Stadium, Mohali",Umpire A,Umpire B
